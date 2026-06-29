@@ -1,16 +1,52 @@
-## Hi there 👋
+## Hi, I'm Matheus
 
-<!--
-**MatheusAEsteves/MatheusAEsteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **About Me**
 
-Here are some ideas to get you started:
+💻 Software Development Student 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Java**, **Spring Boot** and **SQL**
+
+🎯 Goal: Become a Back-end Software Engineer
+
+📍 Brazil
+
+## Education & Certifications
+
+✅ Completed
+
+- Jovem Programador (2025)
+
+🚧 In Progress
+
+- +Devs2Blu (2026 – Present)
+
+## Roadmap
+
+✅ Completed
+
+- ✔ Git & GitHub
+
+- ✔ Programming Fundamentals
+
+- ✔ Java Basics
+
+- ✔ Java Advanced Concepts
+
+- ✔ SQL
+
+- ✔ HTML Basics
+
+- ✔ CSS Basics 
+
+
+🚧 Currently Learning
+
+- 🔄 Spring Boot
+
+## Contact
+
+**Email:** matheusesteves8888@gmail.com
+
+
+
+
