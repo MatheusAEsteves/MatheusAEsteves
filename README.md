@@ -38,10 +38,7 @@
 
 - ✔ CSS Basics 
 
-
-🚧 Currently Learning
-
-- 🔄 Spring Boot
+- ✔ Spring Boot
 
 ## Contact
 
